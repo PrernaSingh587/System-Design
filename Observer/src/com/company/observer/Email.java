@@ -9,5 +9,6 @@ public class Email implements MainObserverInf{
     @Override
     public void show() {
         System.out.println("Message sent to " + email);
+
     }
 }
